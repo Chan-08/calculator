@@ -1,6 +1,3 @@
-Certainly! Here's the README file for your animated calculator project:
-
----
 
 # Animated Calculator
 
